@@ -26,7 +26,7 @@
     <ul align="center">
     <summary><h2 style="display: inline-block" align="center"> </br> &#8595; My projects &#8595;  </h2></summary>
   </ul>
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="center" width=100%>
       <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=projekt_game&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" />
       <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=yeet&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" />
       <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=bettermetachat&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" />
