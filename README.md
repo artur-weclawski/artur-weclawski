@@ -11,9 +11,12 @@
     <li> > In addition to programming, I also enjoy digital art. </li>
     <li> > I love to work and learn about CSS to make prettier web pages. </li>
     <li> > 3 AM is the best time to start working on a new project :P </li>
+    </br>
+    <summary><h2 style="display: inline-block">Contact</h2></summary>
+    <li> > You can find all my links, projects and resume here: <a href="https://artur-weclawski.github.io/portfolio/"> My portfolio </a> </li>
   </ul>
 </div>
-
+</br>
 <img src = "https://github.com/artur-weclawski/artur-weclawski/raw/main/assets/divider_synthwave.gif" width = 100%>
 
 <div id="user-content-toc">
@@ -53,19 +56,10 @@
 
 <img src = "https://github.com/artur-weclawski/artur-weclawski/raw/main/assets/divider_synthwave.gif" width = 100%>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block" align="center"> Contact </h1></summary>
-  </ul>
-  <h3 style="display: inline-block" align="center"> > You can find all my links, projects and resume here: <a href="https://artur-weclawski.github.io/portfolio/"> My portfolio </a></h3>
-</div>
 
 <!--
 **artur-weclawski/artur-weclawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
