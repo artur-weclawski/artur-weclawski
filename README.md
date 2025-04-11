@@ -21,7 +21,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block" align="center"> &#8595; My most used languaes &#8595; </h1></summary>
+    <summary><h1 style="display: inline-block" align="center"> &#8595; My most used languages &#8595; </h1></summary>
   </ul>
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <img height=200 width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-weclawski&layout=compact&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb&hide=kotlin,swift,Shell" />
