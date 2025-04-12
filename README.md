@@ -35,7 +35,7 @@
       <td></br></td>
     </tr>
     <tr>
-      <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=projekt_game&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
+      <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=unconqueredfortress&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
       <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=yeet&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
     </tr>
     <tr>
