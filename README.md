@@ -31,23 +31,15 @@
   </ul>
   <table align="center">
     <tr>
-      <td></br></td>
-      <td></br></td>
+      <td><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=unconqueredfortress&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
+      <td><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=yeet&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
     </tr>
     <tr>
-      <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=unconqueredfortress&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
-      <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=yeet&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
-    </tr>
-    <tr>
-      <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=bettermetachat&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
-      <td><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=masterand&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
+      <td><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=bettermetachat&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
+      <td><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=masterand&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
     </tr>
     <tr>
       <td colspan="2"><img height="100" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artur-weclawski&repo=memorygame&bg_color=1b1e23&title_color=9e2281&text_color=50a9cf&border_color=f6eddb" /></td>
-    </tr>
-    <tr>
-      <td></br></td>
-      <td></br></td>
     </tr>
   </table>
 </div>
